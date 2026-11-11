@@ -1,0 +1,60 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1646 >>
+stream
+BT /F2 14 Tf 50 784 Td (GeoDrone - Reporte de medicion) Tj ET
+BT /F1 11 Tf 50 762 Td (Proyecto: Terreno Experimental 01) Tj ET
+BT /F1 11 Tf 50 744 Td (Ubicacion: Tecnologico de Estudios Superiores de Jilotepec) Tj ET
+BT /F1 11 Tf 50 726 Td (Responsable: Eduardo) Tj ET
+BT /F1 11 Tf 50 708 Td (Fecha: 2026-11-10) Tj ET
+BT /F1 11 Tf 50 690 Td (Coordenadas: EPSG:32614 \(UTM 14N\)) Tj ET
+BT /F1 11 Tf 50 672 Td (Tipo: area) Tj ET
+BT /F1 11 Tf 50 654 Td () Tj ET
+BT /F2 14 Tf 50 628 Td (Resultados) Tj ET
+BT /F1 11 Tf 50 606 Td (Area: 1000.161 m2 \(0.100016 ha\)) Tj ET
+BT /F1 11 Tf 50 588 Td (Perimetro: 130.007 m) Tj ET
+BT /F1 11 Tf 50 570 Td () Tj ET
+BT /F2 14 Tf 50 544 Td (Puntos) Tj ET
+BT /F1 11 Tf 50 522 Td (P1: lat 19.91248, lon -99.57848 | UTM 439453.799, 2201900.493) Tj ET
+BT /F1 11 Tf 50 504 Td (P2: lat 19.9124812, lon -99.5780978 | UTM 439493.803, 2201900.489) Tj ET
+BT /F1 11 Tf 50 486 Td (P3: lat 19.9127072, lon -99.5780987 | UTM 439493.795, 2201925.499) Tj ET
+BT /F1 11 Tf 50 468 Td (P4: lat 19.9127059, lon -99.5784808 | UTM 439453.801, 2201925.492) Tj ET
+BT /F1 11 Tf 50 450 Td () Tj ET
+BT /F2 14 Tf 50 424 Td (Validacion \(referencia vs GeoDrone\)) Tj ET
+BT /F1 11 Tf 50 402 Td (Longitud: ref 40 m | GeoDrone 40.35 m | dif 0.35 | error 0.875%) Tj ET
+BT /F1 11 Tf 50 384 Td (Ancho: ref 25 m | GeoDrone 24.72 m | dif -0.28 | error 1.12%) Tj ET
+BT /F1 11 Tf 50 366 Td (Area: ref 1000 m2 | GeoDrone 992.4 m2 | dif -7.6 | error 0.76%) Tj ET
+BT /F1 11 Tf 50 348 Td (Altura: ref 8 m | GeoDrone 8.3 m | dif 0.3 | error 3.75%) Tj ET
+BT /F1 11 Tf 50 330 Td (Nota: no se promete precision centimetrica. Se presenta el error medido.) Tj ET
+
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000212 00000 n 
+0000000314 00000 n 
+0000000450 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2148
+%%EOF
