@@ -1,0 +1,8 @@
+GeoDrone - Validacion experimental
+Parametro,Referencia,GeoDrone,Diferencia,Error (%),Unidad
+Longitud,40,40.35,0.35,0.875,m
+Ancho,25,24.72,-0.28,1.12,m
+Area,1000,992.4,-7.6,0.76,m2
+Altura,8,8.3,0.3,3.75,m
+
+Nota,"La referencia es la medicion tradicional (cinta o estacion). Los valores de la propuesta son solo de ejemplo; aqui van los reales de campo."

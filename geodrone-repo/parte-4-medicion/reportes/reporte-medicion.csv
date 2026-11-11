@@ -1,0 +1,18 @@
+GeoDrone - Reporte de medicion
+Proyecto,Terreno Experimental 01
+Ubicacion,Tecnologico de Estudios Superiores de Jilotepec
+Responsable,Eduardo
+Fecha,2026-11-10
+Sistema de coordenadas,EPSG:32614 (UTM 14N)
+Tipo de medicion,area
+
+Resultado,Valor,Unidad
+Area,1000.161,m2
+Area,0.100016,ha
+Perimetro,130.007,m
+
+Punto,Latitud,Longitud,X UTM (m),Y UTM (m)
+1,19.91248,-99.57848,439453.799,2201900.493
+2,19.9124812,-99.5780978,439493.803,2201900.489
+3,19.9127072,-99.5780987,439493.795,2201925.499
+4,19.9127059,-99.5784808,439453.801,2201925.492
